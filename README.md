@@ -1,4 +1,9 @@
 # Dash_App_visualization_h1b_Visa
-H1B visa acceptance dash app
-Run FinalprojectApp.py
-H1b18 : dataset
+RUN Instructions
+1. Import data h1b18.csv
+2.Run finalproject.py
+3.Pages contains 4 pages for the app
+About.py
+Data_Upload.py
+feature_Enginnering.py
+Graphs.py
